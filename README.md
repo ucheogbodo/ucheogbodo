@@ -2,9 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C++, Java, and many other things
 - 💞️ I’m looking to collaborate on anything that will give me experience
-- 📫 How to reach me - Find me on LinkedIn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me - Find me on LinkedIn: https://www.linkedin.com/in/uche-ogbodo/.
 
 <!---
 ucheogbodo/ucheogbodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
